@@ -1,24 +1,15 @@
 <div align="center">
-  <h1>Alexandre Constancio</h1>
+  <h2>Alexandre Constancio</h2>
   <h3>Systems Architect · AI Engineer · Infrastructure Builder</h3>
-  <p><i>"First, solve the problem. Then, write the code."</i> — John Johnson</p>
 </div>
 
 ---
 
-## ⚙️ Engineering Philosophy
-
-I design and build systems where **context is the product**. My work spans the full stack — from NixOS system configurations and Rust daemons to Go microservices and Svelte frontends — unified by a relentless focus on **determinism, offline-first architecture, and testable boundaries**.
-
-Core principles:
-- **Domain-Driven Design** with Feature-First structure
-- **KISS, DRY, SOLID** — pragmatism over dogma
-- **Defense in depth** — validation at every layer boundary
-- **Local-first** — sync is a feature, not a requirement
+I design and build systems as a full stack engineer who delves too much into infra and multiplatform development.
 
 ---
 
-## 🛠 Technical Landscape
+## Technical Landscape
 
 ### Languages & Runtimes
 
@@ -74,27 +65,31 @@ Core principles:
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
-**LLM Context Architecture**
+**LLM Harnessing**
 Designing Memory Management Units (MMU) and RAG pipelines that treat context as a first-class engineering concern — deterministic retrieval, strict token budgets, zero hallucination tolerance.
+Building a shared Go intelligence library (talos) that powers classification, LLM orchestration, and persona management across the entire product suite.
+
+**Scalable systems**
+Developing resilient and scalable pipelines with Golang with agentic and data pipelines.
+
+**Svelte for a more elegant web**
+Developing bindrunes as a framework for web development with the benefits of sveltekit and svelte runes.
 
 **NixOS-Native Infrastructure**
 Building reproducible system configurations with Nix flakes, integrating Rust daemons and Dart TUIs into a unified, declarative stack. Every service is a flake output.
 
 **Local-First Mobile Ecosystems**
-Engineering privacy-centric applications with offline-first sync (PowerSync + Supabase), structured local databases (Drift), and conflict-free replication.
+Engineering privacy-centric applications with offline-first sync (PowerSync), structured local databases (Drift), and conflict-free replication.
+Engineering multiplatform solutions (Flutter) for e-book management with local databases(Drift).
 
-**Intelligence Engine Development**
-Building a shared Go intelligence library (talos) that powers classification, LLM orchestration, and persona management across the entire product suite.
 
 ---
 
 <div align="center">
 
-**Structured logic. Scalable design. Zero fluff.**
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aleconstancio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleconstancio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandreconstancio)
 
 </div>
